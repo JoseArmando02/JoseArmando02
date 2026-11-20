@@ -1,4 +1,19 @@
-# Hola, mi nombre es José Armando Pichal Pio 👋
+<div align="center">
+
+<img src="header.svg" alt="José Armando Pichal Pio - Bases de Datos y Análisis de Datos" width="100%">
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A78BFA&size=20&center=true&vCenter=true&width=600&height=40&lines=Modelado+y+dise%C3%B1o+de+bases+de+datos;Consultas+SQL+y+NoSQL;ETL+con+Python;Dashboards+en+Power+BI;An%C3%A1lisis+de+datos" alt="Texto animado">
+</a>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![Email](https://img.shields.io/badge/EMAIL-F472B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
+![Ubicación](https://img.shields.io/badge/VERACRUZ,%20MX-34D399?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Open to](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20DATA%20ROLES-A78BFA?style=for-the-badge)
+
+</div>
 
 **Estudiante de Ingeniería Informática en la Universidad Veracruzana**
 
