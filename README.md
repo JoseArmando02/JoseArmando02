@@ -55,14 +55,6 @@
 ## 🚀 PROYECTOS DESTACADOS
 
 - **Base de datos sismológica**: PostgreSQL (JSONB), ETL en Python y backend en Java.
-- *(agrega aquí otros proyectos con su enlace)*
 
 ---
 
-## 🤝 ¡CONECTEMOS!
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
-
-![Ubicación](https://img.shields.io/badge/UBICACIÓN-VERACRUZ,%20MÉXICO-4EAA25?style=for-the-badge&logo=googlemaps&logoColor=white)
