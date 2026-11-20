@@ -1,7 +1,6 @@
 # Hola, mi nombre es José Armando Pichal Pio 👋
 
 **Estudiante de Ingeniería Informática en la Universidad Veracruzana**
-**Especializado en bases de datos** 🗄️
 
 ---
 
